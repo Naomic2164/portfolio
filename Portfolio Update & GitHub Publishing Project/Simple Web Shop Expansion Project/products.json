@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "price": 19.99,
+    "category": "Shirts",
+    "image": "images/white-tshirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jeans",
+    "price": 49.99,
+    "category": "Pants",
+    "image": "images/denim-jeans.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leather Wallet",
+    "price": 29.99,
+    "category": "Accessories",
+    "image": "images/wallet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "price": 89.99,
+    "category": "Shoes",
+    "image": "images/running-shoes.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Black Hoodie",
+    "price": 39.99,
+    "category": "Shirts",
+    "image": "images/black-hoodie.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Canvas Backpack",
+    "price": 59.99,
+    "category": "Accessories",
+    "image": "images/backpack.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Formal Dress Shirt",
+    "price": 34.99,
+    "category": "Shirts",
+    "image": "images/dress-shirt.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Casual Shorts",
+    "price": 24.99,
+    "category": "Pants",
+    "image": "images/shorts.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wool Beanie",
+    "price": 14.99,
+    "category": "Accessories",
+    "image": "images/beanie.jpg"
+  },
+  {
+    "id": 10,
+    "name": "High-Top Sneakers",
+    "price": 74.99,
+    "category": "Shoes",
+    "image": "images/sneakers.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Graphic Tee",
+    "price": 22.99,
+    "category": "Shirts",
+    "image": "images/graphic-tee.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Slim Fit Chinos",
+    "price": 44.99,
+    "category": "Pants",
+    "image": "images/chinos.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Leather Belt",
+    "price": 19.99,
+    "category": "Accessories",
+    "image": "images/belt.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Flip Flops",
+    "price": 12.99,
+    "category": "Shoes",
+    "image": "images/flip-flops.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Rain Jacket",
+    "price": 59.99,
+    "category": "Shirts",
+    "image": "images/rain-jacket.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Cargo Pants",
+    "price": 39.99,
+    "category": "Pants",
+    "image": "images/cargo-pants.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sunglasses",
+    "price": 24.99,
+    "category": "Accessories",
+    "image": "images/sunglasses.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Loafers",
+    "price": 69.99,
+    "category": "Shoes",
+    "image": "images/loafers.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Polo Shirt",
+    "price": 29.99,
+    "category": "Shirts",
+    "image": "images/polo.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Joggers",
+    "price": 34.99,
+    "category": "Pants",
+    "image": "images/joggers.jpg"
+  }
+]

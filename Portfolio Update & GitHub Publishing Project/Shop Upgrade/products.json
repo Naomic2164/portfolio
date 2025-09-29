@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Tee",
+    "category": "Shirts",
+    "price": 19.99,
+    "image": "images/classic-tee.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "price": 49.99,
+    "image": "images/running-shoes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leather Belt",
+    "category": "Accessories",
+    "price": 24.99,
+    "image": "images/leather-belt.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Slim Fit Jeans",
+    "category": "Pants",
+    "price": 39.99,
+    "image": "images/slim-jeans.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Graphic Hoodie",
+    "category": "Shirts",
+    "price": 34.99,
+    "image": "images/graphic-hoodie.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Canvas Sneakers",
+    "category": "Shoes",
+    "price": 44.99,
+    "image": "images/canvas-sneakers.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Beanie Hat",
+    "category": "Accessories",
+    "price": 14.99,
+    "image": "images/beanie-hat.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cargo Pants",
+    "category": "Pants",
+    "price": 42.99,
+    "image": "images/cargo-pants.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Striped Polo",
+    "category": "Shirts",
+    "price": 29.99,
+    "image": "images/striped-polo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 19.99,
+    "image": "images/sunglasses.jpg"
+  }
+]

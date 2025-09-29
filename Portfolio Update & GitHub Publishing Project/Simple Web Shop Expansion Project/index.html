@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simple Web Shop</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>🛍️ Simple Web Shop</h1>
+
+  <input type="text" id="search-box" placeholder="Search products..." />
+  <select id="sort-select">
+    <option value="">Sort By</option>
+    <option value="price-asc">Price: Low → High</option>
+    <option value="price-desc">Price: High → Low</option>
+    <option value="name-asc">Name: A → Z</option>
+  </select>
+  <select id="category-filter">
+    <option value="">All Categories</option>
+    <option value="Shirts">Shirts</option>
+    <option value="Shoes">Shoes</option>
+    <option value="Accessories">Accessories</option>
+    <option value="Pants">Pants</option>
+  </select>
+
+  <div id="product-list"></div>
+
+  <div id="pagination">
+    <button id="prev-btn">Previous</button>
+    <span id="page-info"></span>
+    <button id="next-btn">Next</button>
+  </div>
+
+  <h2>🛒 Cart</h2>
+  <ul id="cart-list"></ul>
+  <p id="cart-total">Total: $0.00</p>
+  <button id="clear-cart">Clear Cart</button>
+
+  <script src="script.js"></script>
+</body>
+</html>

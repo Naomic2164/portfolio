@@ -1,0 +1,32 @@
+[
+  {
+    "topic": "Space",
+    "question": "Which planet is known as the Red Planet?",
+    "choices": ["Venus", "Jupiter", "Saturn", "Mars"],
+    "answer": "Mars"
+  },
+  {
+    "topic": "Literature",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "choices": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "topic": "Geography",
+    "question": "What is the capital city of Japan?",
+    "choices": ["Osaka", "Hiroshima", "Tokyo", "Kyoto"],
+    "answer": "Tokyo"
+  },
+  {
+    "topic": "Animals",
+    "question": "What is the largest mammal in the world?",
+    "choices": ["Elephant", "Hippopotamus", "Blue Whale", "Giraffe"],
+    "answer": "Blue Whale"
+  },
+  {
+    "topic": "Music",
+    "question": "Which instrument has keys, pedals, and strings?",
+    "choices": ["Violin", "Drum", "Guitar", "Piano"],
+    "answer": "Piano"
+  }
+]
